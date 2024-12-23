@@ -3068,3 +3068,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Dec2024 23:03:02.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Creative Mode]
 [23Dec2024 23:04:52.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patrikcio moved too quickly! -1.051259116943129,0.0,-10.091367092972632
 [23Dec2024 23:06:23.932] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [62, -145], pos: MutableBlockPos{x=1007, y=47, z=-2320}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
+[23Dec2024 23:08:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Survival Mode]
+[23Dec2024 23:10:22.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Creative Mode]
+[23Dec2024 23:10:40.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Teleported Patrikcio to 1212.500000, 87.500000, -1835.500000]
+[23Dec2024 23:11:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Survival Mode]
+[23Dec2024 23:14:24.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set the time to 1000]
+[23Dec2024 23:14:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set the time to 18000]
+[23Dec2024 23:15:51.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set the time to 1000]
