@@ -4882,9 +4882,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "farmersdelight:recipes/food/sweet_berry_cheesecake_from_slices": {
     "criteria": {
-      "has_rose_bush": "2024-11-05 04:38:54 +0000"
+      "has_sweet_berry_cheesecake_slice": "2024-11-05 03:53:55 +0000"
     },
     "done": true
   },
@@ -4894,21 +4894,45 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-11-05 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-11-05 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-11-05 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-11-05 04:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-11-05 04:03:56 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:main/reach_for_the_sea_stars": {
     "criteria": {
       "crab_claw": "2024-11-05 04:09:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_kelp": "2024-11-05 04:40:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cheesecake_from_slices": {
-    "criteria": {
-      "has_sweet_berry_cheesecake_slice": "2024-11-05 03:53:55 +0000"
+      "has_rose_bush": "2024-11-05 04:38:54 +0000"
     },
     "done": true
   },
@@ -4918,9 +4942,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_slime_ball": "2024-11-05 04:03:56 +0000"
+      "has_kelp": "2024-11-05 04:40:54 +0000"
     },
     "done": true
   },
@@ -4942,39 +4966,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+  "crabbersdelight:recipes/food/kelp_shake": {
     "criteria": {
-      "has_item": "2024-11-05 04:03:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-11-05 04:03:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-11-05 04:03:56 +0000"
+      "has_kelp": "2024-11-05 04:40:54 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-11-05 04:55:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
-    "criteria": {
-      "has_item": "2024-11-05 04:03:54 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/food/kelp_shake": {
-    "criteria": {
-      "has_kelp": "2024-11-05 04:40:54 +0000"
     },
     "done": true
   },
