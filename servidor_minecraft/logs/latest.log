@@ -1112,3 +1112,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Dec2024 04:03:07.731] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Patrikcio
 [28Dec2024 04:03:07.732] [Server thread/INFO] [Jade/]: Syncing config to Patrikcio (570de810-6820-3ca9-b990-f0017060c843)
 [28Dec2024 04:03:08.373] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Patrikcio
+[28Dec2024 04:08:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> halo
