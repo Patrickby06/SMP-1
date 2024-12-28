@@ -69,7 +69,7 @@
         "{block:\"minecraft:melon_stem\",id:\"block\"}",
         "{id:\"item\",item:\"minecraft:snowball\"}"
       ],
-      "isWhitelist": true
+      "isWhitelist": false
     },
     "burningItems": {
       "entries": [
@@ -157,7 +157,7 @@
         "{id:\"item\",item:\"minecraft:rotten_flesh\"}",
         "{id:\"item\",item:\"minecraft:snowball\"}"
       ],
-      "isWhitelist": true
+      "isWhitelist": false
     },
     "undestroyableItems": {
       "entries": [
@@ -170,7 +170,7 @@
     }
   },
   "pickup": {
-    "customPickup": false,
+    "customPickup": true,
     "pickupWhenSneaking": true,
     "pickupNormally": false,
     "maximumPickupRange": 5.0,
