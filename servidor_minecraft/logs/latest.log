@@ -1044,3 +1044,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Dec2024 04:44:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> grabe pantalla
 [28Dec2024 04:45:00.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> s eme bugeo dis
 [28Dec2024 04:45:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> ahorita entro
+[28Dec2024 04:51:12.272] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [73, -94], pos: MutableBlockPos{x=1182, y=-3, z=-1504}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[28Dec2024 04:51:12.273] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [73, -94], pos: MutableBlockPos{x=1182, y=-2, z=-1504}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[28Dec2024 04:52:41.111] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=1269, y=70, z=-1397}
+[28Dec2024 04:52:43.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1269, y=70, z=-1397} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[28Dec2024 04:52:43.671] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=1269, y=70, z=-1397}
+[28Dec2024 05:02:18.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HeidyNessa> <3
+[28Dec2024 05:03:03.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Teleported Patrikcio to HeidyNessa]
+[28Dec2024 05:03:16.146] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[28Dec2024 05:03:16.147] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Dec2024 05:03:16.151] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[28Dec2024 05:03:16.151] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[28Dec2024 05:03:16.151] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[28Dec2024 05:03:16.152] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Dec2024 05:03:16.152] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[28Dec2024 05:17:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HeidyNessa> *golpe
+[28Dec2024 05:17:40.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> xd
+[28Dec2024 05:18:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Stopping the server]
+[28Dec2024 05:18:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Dec2024 05:18:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Dec2024 05:18:11.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patrikcio lost connection: Disconnected
+[28Dec2024 05:18:11.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patrikcio left the game
+[28Dec2024 05:18:11.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Dec2024 05:18:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WORLD_PRIME]'/minecraft:overworld
+[28Dec2024 05:18:14.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Dec2024 05:18:14.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Dec2024 05:18:14.551] [Server thread/INFO] [Framework/]: Unloading server configs...
+[28Dec2024 05:18:14.552] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
