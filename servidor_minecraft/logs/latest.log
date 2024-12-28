@@ -1107,3 +1107,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Dec2024 03:48:41.610] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [62, -145], pos: MutableBlockPos{x=1007, y=47, z=-2320}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_diorite_lower]
 [28Dec2024 03:49:09.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeidyNessa moved too quickly! 10.024175561460424,0.5800000131130219,-1.624632473699421
 [28Dec2024 03:49:09.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5506ms or 110 ticks behind
+[28Dec2024 04:03:07.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Patrikcio[/127.251.86.213:46629] logged in with entity id 5953 at (1198.7779282488102, 90.0, -1841.9001978195554)
+[28Dec2024 04:03:07.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patrikcio joined the game
+[28Dec2024 04:03:07.731] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Patrikcio
+[28Dec2024 04:03:07.732] [Server thread/INFO] [Jade/]: Syncing config to Patrikcio (570de810-6820-3ca9-b990-f0017060c843)
+[28Dec2024 04:03:08.373] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Patrikcio
