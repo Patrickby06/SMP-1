@@ -1038,3 +1038,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [28Dec2024 04:21:19.240] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to HeidyNessa
 [28Dec2024 04:21:19.241] [Server thread/INFO] [Jade/]: Syncing config to HeidyNessa (d41cfdf4-bb25-3cee-a326-919ab894dc48)
 [28Dec2024 04:21:21.237] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from HeidyNessa
+[28Dec2024 04:40:31.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> :DDDDDDDD
+[28Dec2024 04:42:25.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Creative Mode]
+[28Dec2024 04:42:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Survival Mode]
+[28Dec2024 04:44:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> grabe pantalla
+[28Dec2024 04:45:00.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> s eme bugeo dis
+[28Dec2024 04:45:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> ahorita entro
