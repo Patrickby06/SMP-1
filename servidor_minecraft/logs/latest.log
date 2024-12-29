@@ -1010,3 +1010,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Dec2024 04:05:36.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
 [29Dec2024 04:08:45.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved wrongly! 0.2556775219698011
 [29Dec2024 04:08:45.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved wrongly! 0.2835603736300527
+[29Dec2024 04:21:21.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patrikcio has completed the challenge [Sniper Duel]
+[29Dec2024 04:21:31.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HeidyNessa> puchis
+[29Dec2024 04:24:28.983] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=1029, y=73, z=-2421}
+[29Dec2024 04:24:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Spectator Mode]
+[29Dec2024 04:24:44.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Survival Mode]
+[29Dec2024 04:25:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Teleported Patrikcio to 1206.500000, 88.500000, -1831.500000]
