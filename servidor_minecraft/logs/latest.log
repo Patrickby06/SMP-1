@@ -1050,3 +1050,19 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 04:48:54.066] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=341, y=74, z=-1691}
 [29Dec2024 04:48:54.505] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=74, z=-1691} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
 [29Dec2024 04:48:54.505] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=341, y=74, z=-1691}
+[29Dec2024 05:10:07.438] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=683, y=68, z=-1797}
+[29Dec2024 05:11:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HeidyNessa> mua
+[29Dec2024 05:11:51.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Patrikcio> <3
+[29Dec2024 05:12:20.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HeidyNessa lost connection: Disconnected
+[29Dec2024 05:12:20.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HeidyNessa left the game
+[29Dec2024 05:12:22.362] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Patrikcio lost connection: Disconnected
+[29Dec2024 05:12:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Patrikcio left the game
+[29Dec2024 05:12:38.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 05:12:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 05:12:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 05:12:38.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 05:12:39.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[WORLD_PRIME]'/minecraft:overworld
+[29Dec2024 05:12:39.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 05:12:39.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2024 05:12:39.929] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Dec2024 05:12:39.930] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
