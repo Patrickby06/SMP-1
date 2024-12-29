@@ -1016,3 +1016,37 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Dec2024 04:24:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Spectator Mode]
 [29Dec2024 04:24:44.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Set own game mode to Survival Mode]
 [29Dec2024 04:25:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Teleported Patrikcio to 1206.500000, 88.500000, -1831.500000]
+[29Dec2024 04:42:01.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Patrikcio: Teleported Patrikcio to HeidyNessa]
+[29Dec2024 04:44:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HeidyNessa> zzzzzzzzzzz
+[29Dec2024 04:47:15.009] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, -85], pos: MutableBlockPos{x=624, y=-17, z=-1354}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[29Dec2024 04:47:15.010] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [39, -85], pos: MutableBlockPos{x=624, y=-16, z=-1354}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[29Dec2024 04:47:21.477] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [36, -88], pos: MutableBlockPos{x=576, y=-54, z=-1396}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[29Dec2024 04:47:21.478] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [36, -88], pos: MutableBlockPos{x=576, y=-53, z=-1396}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:ore_tuff]
+[29Dec2024 04:47:34.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -10.082263523951951,0.0,-2.5508027345840674
+[29Dec2024 04:47:34.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -10.471324740952355,0.0,-2.6428731420967324
+[29Dec2024 04:47:34.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -10.861248209883684,0.0,-2.7300348420699265
+[29Dec2024 04:47:34.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -11.252083261395683,0.0,-2.8112508203994366
+[29Dec2024 04:47:34.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -11.643810575706652,0.0,-2.885737005483179
+[29Dec2024 04:47:34.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -12.036364854055023,0.0,-2.952927967987307
+[29Dec2024 04:47:34.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved too quickly! -12.429652022980804,0.0,-3.0124335188199893
+[29Dec2024 04:47:50.541] [IO-Worker-53/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [40, -2]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1605) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1628) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:133) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:260) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:250) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:60) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[29Dec2024 04:47:56.066] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=411, y=83, z=-1515}
+[29Dec2024 04:48:54.066] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=341, y=74, z=-1691}
+[29Dec2024 04:48:54.505] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=341, y=74, z=-1691} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[29Dec2024 04:48:54.505] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=341, y=74, z=-1691}
