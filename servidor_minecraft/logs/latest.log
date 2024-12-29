@@ -1008,3 +1008,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Dec2024 04:01:31.423] [Server thread/INFO] [Jade/]: Syncing config to Patrikcio (570de810-6820-3ca9-b990-f0017060c843)
 [29Dec2024 04:01:32.722] [Netty Epoll Server IO #5/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Patrikcio
 [29Dec2024 04:05:36.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2736ms or 54 ticks behind
+[29Dec2024 04:08:45.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved wrongly! 0.2556775219698011
+[29Dec2024 04:08:45.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Patrikcio) moved wrongly! 0.2835603736300527
